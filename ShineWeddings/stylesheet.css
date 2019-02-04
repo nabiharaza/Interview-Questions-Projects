@@ -1,0 +1,11 @@
+.col {
+    border: 1px solid black;
+    border-radius: 50px;
+    margin-bottom: 50px;
+    background-color: #0b2544;
+    cursor: pointer;
+}
+
+.container {
+    max-width: 100%;
+}
